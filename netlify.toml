@@ -1,0 +1,14 @@
+[build]
+  # Base directory where Netlify runs install & build commands for this monorepo
+  base = "frontend"
+  # Install dependencies then build the Next.js app
+  command = "npm ci && npm run build"
+  # Let the Next.js plugin manage the output (do NOT point publish to the base dir)
+  publish = ""
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[context.production.environment]
+# Example environment variables — add real values in the Netlify UI instead of committing secrets
+# NEXT_PUBLIC_API_URL = "https://api.example.com"
