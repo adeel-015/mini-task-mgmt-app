@@ -1,0 +1,7 @@
+.DS_Store
+.env
+node_modules/
+frontend/.next/
+/backend/node_modules/
+/mobile/.dart_tool/
+*.log

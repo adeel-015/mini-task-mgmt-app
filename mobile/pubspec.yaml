@@ -1,0 +1,24 @@
+name: mini_task_mgmt_mobile
+description: A minimal task management Flutter app
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^1.6.0
+  provider: ^6.0.5
+  shared_preferences: ^2.1.1
+  flutter_secure_storage: ^10.0.0-beta.5
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
