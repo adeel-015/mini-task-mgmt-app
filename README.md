@@ -85,6 +85,16 @@ Screenshots
 
 <img src="screenshots/mobile_add_task.png" alt="mobile_add_task">
 
+Recording
+
+## Demo
+
+[Video Demo (Click Here)](screenshots/demo.mov)
+
+<!-- <video width="320" height="240" controls>
+  <source src="screenshots/demo.mov" type="video/mp4">
+</video> -->
+
 # Mini Task Management
 
 Full-stack minimal task management application with three components:
