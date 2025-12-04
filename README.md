@@ -89,11 +89,7 @@ Recording
 
 ## Demo
 
-[Video Demo (Click Here)](screenshots/demo.mov)
-
-<!-- <video width="320" height="240" controls>
-  <source src="screenshots/demo.mov" type="video/mp4">
-</video> -->
+[Click Here to see the Demo on YouTube](https://youtu.be/WrEIrkq-zso)
 
 # Mini Task Management
 
